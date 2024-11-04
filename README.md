@@ -25,3 +25,15 @@
     (Date : 2024.10.31)
     / Source : https://www.acmicpc.net/problem/1158
 
+  - [`1_dataStructure_07_17413`]
+    (Date : 2024.11.04)
+    / Source : https://www.acmicpc.net/problem/17413
+
+  - [`1_dataStructure_08_10799`]
+    (Date : 2024.11.04)
+    / Source : https://www.acmicpc.net/problem/10799
+
+  - [`1_dataStructure_09_17298`]
+    (Date : 2024.11.04)
+    / Source : https://www.acmicpc.net/problem/17298
+
