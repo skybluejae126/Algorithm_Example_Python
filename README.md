@@ -48,3 +48,19 @@
   - [`1_dataStructure_12_10866`]
     (Date : 2024.11.11)
     / Source : https://www.acmicpc.net/problem/10866
+
+  - [`2_math_01_10430`]
+    (Date : 2024.11.12)
+    / Source : https://www.acmicpc.net/problem/10430
+
+  - [`2_math_02_2609`]
+    (Date : 2024.11.12)
+    / Source : https://www.acmicpc.net/problem/2609
+
+  - [`2_math_03_1934`]
+    (Date : 2024.11.12)
+    / Source : https://www.acmicpc.net/problem/1934
+
+
+
+
