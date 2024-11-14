@@ -61,6 +61,18 @@
     (Date : 2024.11.12)
     / Source : https://www.acmicpc.net/problem/1934
 
+  - [`2_math_04_6588`]
+    (Date : 2024.11.14)
+    / Source : https://www.acmicpc.net/problem/6588
+
+  - [`2_math_05_1978`]
+    (Date : 2024.11.14)
+    / Source : https://www.acmicpc.net/problem/1978
+
+  - [`2_math_06_1929`]
+    (Date : 2024.11.14)
+    / Source : https://www.acmicpc.net/problem/1929
+
 
 
 
