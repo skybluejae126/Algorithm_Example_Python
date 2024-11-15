@@ -73,6 +73,18 @@
     (Date : 2024.11.14)
     / Source : https://www.acmicpc.net/problem/1929
 
+  - [`2_math_07_10872`]
+    (Date : 2024.11.15)
+    / Source : https://www.acmicpc.net/problem/10872
+
+  - [`2_math_08_1676`]
+    (Date : 2024.11.15)
+    / Source : https://www.acmicpc.net/problem/1676
+
+  - [`2_math_09_2004`]
+    (Date : 2024.11.15)
+    / Source : https://www.acmicpc.net/problem/2004
+
 
 
 
