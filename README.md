@@ -85,6 +85,19 @@
     (Date : 2024.11.15)
     / Source : https://www.acmicpc.net/problem/2004
 
+  - [`2_math_10_9613`]
+    (Date : 2024.11.18)
+    / Source : https://www.acmicpc.net/problem/9613
+
+  - [`2_math_11_17087`]
+    (Date : 2024.11.18)
+    / Source : https://www.acmicpc.net/problem/17087
+
+  - [`2_math_12_1373`]
+    (Date : 2024.11.18)
+    / Source : https://www.acmicpc.net/problem/1373
+
+
 
 
 
