@@ -94,8 +94,20 @@
     / Source : https://www.acmicpc.net/problem/17087
 
   - [`2_math_12_1373`]
-    (Date : 2024.11.18)
+    (Date : 2024.11.22)
     / Source : https://www.acmicpc.net/problem/1373
+
+  - [`2_math_13_1212`]
+    (Date : 2024.11.22)
+    / Source : https://www.acmicpc.net/problem/1212
+
+  - [`2_math_14_2089`]
+    (Date : 2024.11.22)
+    / Source : https://www.acmicpc.net/problem/2089
+
+  - [`2_math_15_17103`]
+    (Date : 2024.11.22)
+    / Source : https://www.acmicpc.net/problem/17103
 
 
 
