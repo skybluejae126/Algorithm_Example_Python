@@ -121,6 +121,20 @@
     (Date : 2024.11.25)
     / Source : https://www.acmicpc.net/problem/11653
 
+  - [`3_dynamic_01_1463`]
+    (Date : 2024.11.28)
+    / Source : https://www.acmicpc.net/problem/1463
+
+  - [`3_dynamic_02_11726`]
+    (Date : 2024.11.28)
+    / Source : https://www.acmicpc.net/problem/11726
+
+  - [`3_dynamic_03_11727`]
+    (Date : 2024.11.28)
+    / Source : https://www.acmicpc.net/problem/11727
+
+
+
 
 
 
