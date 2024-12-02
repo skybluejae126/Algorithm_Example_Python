@@ -133,6 +133,18 @@
     (Date : 2024.11.28)
     / Source : https://www.acmicpc.net/problem/11727
 
+  - [`3_dynamic_04_9095`]
+    (Date : 2024.12.02)
+    / Source : https://www.acmicpc.net/problem/9095
+
+  - [`3_dynamic_05_11052`]
+    (Date : 2024.12.02)
+    / Source : https://www.acmicpc.net/problem/11052
+
+  - [`3_dynamic_06_16194`]
+    (Date : 2024.12.02)
+    / Source : https://www.acmicpc.net/problem/16194
+
 
 
 
